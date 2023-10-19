@@ -1,0 +1,8 @@
+C:\Users\ibrah\source\repos\HackerRank-project\obj\Debug\HackerRank-project.csproj.AssemblyReference.cache
+C:\Users\ibrah\source\repos\HackerRank-project\obj\Debug\HackerRank-project.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrah\source\repos\HackerRank-project\obj\Debug\HackerRank-project.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\HackerRank-project\bin\Debug\HackerRank-project.exe.config
+C:\Users\ibrah\source\repos\HackerRank-project\bin\Debug\HackerRank-project.exe
+C:\Users\ibrah\source\repos\HackerRank-project\bin\Debug\HackerRank-project.pdb
+C:\Users\ibrah\source\repos\HackerRank-project\obj\Debug\HackerRank-project.exe
+C:\Users\ibrah\source\repos\HackerRank-project\obj\Debug\HackerRank-project.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank-project", "HackerRank-project.csproj", "{9D660195-6E93-492B-97D5-2B142464DFCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatikaOdev1", "..\PatikaOdev1\PatikaOdev1.csproj", "{5250DFE9-DFE2-43DE-B797-6DA9494BE23C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D660195-6E93-492B-97D5-2B142464DFCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D660195-6E93-492B-97D5-2B142464DFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D660195-6E93-492B-97D5-2B142464DFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D660195-6E93-492B-97D5-2B142464DFCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5250DFE9-DFE2-43DE-B797-6DA9494BE23C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5250DFE9-DFE2-43DE-B797-6DA9494BE23C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5250DFE9-DFE2-43DE-B797-6DA9494BE23C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5250DFE9-DFE2-43DE-B797-6DA9494BE23C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6D9F27D-B0D0-44F3-85A6-32AE7EC93A72}
+	EndGlobalSection
+EndGlobal
